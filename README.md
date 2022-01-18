@@ -5,8 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## What is the use of this Repo
 
 1.Creating a Component in React
+
 2.Communicating between parent and child component
+
 3.Using Bootstrap along with React
+
 4.Using Redux along with React
 
 ## Available Scripts

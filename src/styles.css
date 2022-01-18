@@ -1,0 +1,9 @@
+.container {
+  max-width: 100%;
+  max-height: 100%;
+  margin-top: 5rem;
+}
+
+.cardsection {
+  margin-top: 0;
+}

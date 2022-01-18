@@ -1,0 +1,153 @@
+[
+    {
+        "id": 1,
+        "title" : "Lower Body Strength with Glute Focused Burnout Round - 43 Minute Butt and Thigh Workout",
+        "videourl" : "https://www.youtube.com/embed/ABDmiZD1TDU",
+        "duration": "43 min",
+        "calorieburn": "258-475",
+        "difficulty": "4/5",
+        "equipment": "Dumbbell",
+        "trainingtype" : "Low Impact,Strength Training"
+    },
+    {
+        "id": 2,
+        "title" : "Weighted Core Strength Routine - Home Abs Mass Dumbbell Routine",
+        "videourl" : "https://www.youtube.com/embed/pnNCuecyZnQ",
+        "duration": "37 min",
+        "calorieburn": "165-285",
+        "difficulty": "3/5",
+        "equipment": "Dumbbell",
+        "trainingtype" : "Low Impact,Toning"
+    },
+    {
+        "id": 3,
+        "title" : "Ascending Ladder of Doom - HIIT Ladder Interval Workout",
+        "videourl" : "https://www.youtube.com/embed/B1NyrihEzhI",
+        "duration": "27 min",
+        "calorieburn": "161-274",
+        "difficulty": "4/5",
+        "equipment": "No Equipment",
+        "trainingtype" : "Cardiovascular"
+    },
+    {
+        "id": 4,
+        "title" : "Upper Body Workout to Build Strength for Push Ups + Tips on How to Do More Push Ups",
+        "videourl" : "https://www.youtube.com/embed/AoxJBoRNFGU",
+        "duration": "12 min",
+        "calorieburn": "105-192",
+        "difficulty": "4/5",
+        "equipment": "Dumbbell",
+        "trainingtype" : "Low Impact,Toning"
+    },
+    {
+        "id": 5,
+        "title" : "Active Upper Body Stretch Workout - PNF Stretch Routine for the Upper Body",
+        "videourl" : "https://www.youtube.com/embed/PQSeTX8iIHM",
+        "duration": "20 min",
+        "calorieburn": "55-89",
+        "difficulty": "1/5",
+        "equipment": "No Equipment",
+        "trainingtype" : "Stretching"
+    },
+    {
+        "id": 6,
+        "title" : "Daniel's Upper Body Strength Workout for People who Get Bored Easily",
+        "videourl" : "https://www.youtube.com/embed/XTfrIhCkY3E",
+        "duration": "39 min",
+        "calorieburn": "227-404",
+        "difficulty": "4/5",
+        "equipment": "Bench,Dumbbell",
+        "trainingtype" : "Strength Training"
+    },
+    {
+        "id": 7,
+        "title" : "Lower Body Active Stretch Routine - PNF Stretch Routine for the Lower Body",
+        "videourl" : "https://www.youtube.com/embed/PDqyBM7Hqs0",
+        "duration": "22 min",
+        "calorieburn": "62-108",
+        "difficulty": "2/5",
+        "equipment": "Mat",
+        "trainingtype" : "Stretching"
+    },
+    {
+        "id": 8,
+        "title" : "Brutal HIIT and Jump Rope Combination Routine - Jump Rope and HIIT Cardio Workout",
+        "videourl" : "https://www.youtube.com/embed/uzxGKGoqAzA",
+        "duration": "27 min",
+        "calorieburn": "185-217",
+        "difficulty": "4/5",
+        "equipment": "Jump Rope",
+        "trainingtype" : "Cardiovascular"
+    },
+    {
+        "id": 9,
+        "title" : "Quick Sweat Kettlebell and Jump Rope - Strength and Cardio Workout",
+        "videourl" : "https://www.youtube.com/embed/6FNVvw93d5U",
+        "duration": "22 min",
+        "calorieburn": "125-208",
+        "difficulty": "4/5",
+        "equipment": "Jump Rope",
+        "trainingtype" : "Cardiovascular"
+    },
+    {
+        "id": 10,
+        "title" : "Daniel’s Favorite Back Rehab and Core Conditioning Workout",
+        "videourl" : "https://www.youtube.com/embed/8tMbLfQqRis",
+        "duration": "22 min",
+        "calorieburn": "94-176",
+        "difficulty": "3/5",
+        "equipment": "Mat",
+        "trainingtype" : "Low Impact"
+    },
+    {
+        "id": 11,
+        "title" : "Ascending Ladder of Doom - HIIT Ladder Interval Workout",
+        "videourl" : "https://www.youtube.com/embed/NEaXkXgLt8k",
+        "duration": "40 min",
+        "calorieburn": "203-382",
+        "difficulty": "4/5",
+        "equipment": "Bench,Dumbbell",
+        "trainingtype" : "Low Impact"
+    },
+    {
+        "id": 12,
+        "title" : "Lower Body Active Static Strength Workout - Strength and Endurance Burnout",
+        "videourl" : "https://www.youtube.com/embed/WibZDP3VYDo",
+        "duration": "50 min",
+        "calorieburn": "324-548",
+        "difficulty": "5/5",
+        "equipment": "Dumbbell",
+        "trainingtype" : "Low Impact,Toning"
+    },
+    {
+        "id": 13,
+        "title" : "37 Minute HIIT Cardio and Core Workout - Total Body HIIT and Abs Workout",
+        "videourl" : "https://www.youtube.com/embed/3Sdh0LdajlU",
+        "duration": "37 min",
+        "calorieburn": "244-377",
+        "difficulty": "4/5",
+        "equipment": "No Equipment",
+        "trainingtype" : "Cardiovascular"
+    },
+    {
+        "id": 14,
+        "title" : "45 Minute Total Body Kettlebell Workout - Fun and Tough Kettlebell Routine",
+        "videourl" : "https://www.youtube.com/embed/Msh4yqfVNUE",
+        "duration": "45 min",
+        "calorieburn": "333-508",
+        "difficulty": "4/5",
+        "equipment": "Dumbbell,Kettlebell",
+        "trainingtype" : "Kettlebell"
+    },
+    {
+        "id": 15,
+        "title" : "At Home HIIT Workout - Intense Calorie Burning HIIT Cardio Workout for Busy People",
+        "videourl" : "https://www.youtube.com/embed/sih4kBaBGjg",
+        "duration": "18 min",
+        "calorieburn": "135-203",
+        "difficulty": "4/5",
+        "equipment": "No Equipment",
+        "trainingtype" : "HIIT"
+    }
+    
+]

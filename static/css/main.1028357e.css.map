@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.1028357e.css","mappings":"AAAA,WAGE,eAAgB,CADhB,eAAgB,CADhB,cAGF,CAEA,aACE,YACF","sources":["styles.css"],"sourcesContent":[".container {\n  max-width: 100%;\n  max-height: 100%;\n  margin-top: 5rem;\n}\n\n.cardsection {\n  margin-top: 0;\n}"],"names":[],"sourceRoot":""}

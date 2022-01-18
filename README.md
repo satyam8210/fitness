@@ -12,17 +12,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 4.Using Redux along with React
 
-## Available Scripts
+## Cloning and Running the Application in local
 
-In the project directory, you can run:
+Clone the project into local
+
+Install all the npm packages. Go into the project folder and type the following command to install all npm packages
+
+### `npm install`
+
+In order to run the application Type the following command
 
 ### `npm run start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 
 
